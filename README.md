@@ -1,5 +1,5 @@
 # firehop-linux
-The server daemon that can help with hopping over firewalls, on Linux. Looking for the Windows version? It should be one of my GitHub repositories already, at this time. 
+The server daemon that can help with hopping over firewalls, on Linux. Looking for the Windows version? It should be one of my GitHub repositories already, at this time. The Windows and Linux versions of *firehop* and *server2server* are indeed compatible with each other, connecting and preforming their tasks successfully. 
 
 Firehop is a program which is similar to services such as *ngrok* or *ssh*, in that it can reverse tunnel any connection that you give it. Firehop, however, is not proprietary and allows for the self-hosting of the reverse connection onto any computer/server which serves the Firehop service. Firehop is broken down into two main programs: *firehop* and *server2server*. 
 
